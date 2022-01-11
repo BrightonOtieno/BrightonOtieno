@@ -3,7 +3,7 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">I'm a passionate Full Stack Developer & a Data Science Enthusiast.</h3>
 
-
+****
 ## 🙋‍♂️ About Me
 
 I'm Brighton Otieno a software developer based in Kenya.Currently I am the Lead skills trainer at <a href="https://www.rcdafrica.org/">RCED Africa </a>.
@@ -45,16 +45,20 @@ I spend most of my time building Web Applications, doing Data Analysis, Data Vis
 ## Github Stats
 
   <br/>
-    <a href="https://github.com/BrightonOtieno/github-readme-stats"><img alt="Brightons Github Stats" src="https://github-readme-stats.vercel.app/api?username=BrightonOtieno&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/BrightonOtieno/github-readme-stats"><img alt="Brightons Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrightonOtieno&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <p>
+    <a align="left"  href="https://github.com/BrightonOtieno/github-readme-stats"><img alt="Brightons Github Stats" src="https://github-readme-stats.vercel.app/api?username=BrightonOtieno&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a align="right" href="https://github.com/BrightonOtieno/github-readme-stats"><img alt="Brightons Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrightonOtieno&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ 
+  </p>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+   <p><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </p>
+  
 
 
 <br/>
 <br/>
 
-<a href="https://github.com/BrightonOtieno/github-readme-activity-graph"><img alt="Brighton's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BrightonOtieno&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<p align="center"><a href="https://github.com/BrightonOtieno/github-readme-activity-graph"><img alt="Brighton's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BrightonOtieno&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></p>
 
 <br/>
 <br/>
