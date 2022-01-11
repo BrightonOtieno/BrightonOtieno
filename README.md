@@ -10,9 +10,9 @@ I'm Brighton Otieno a software developer based in Kenya.Currently I am the Lead 
 
 I spend most of my time building Web Applications, doing Data Analysis, Data Visualizations & Building Machine Learning Models.
 <p align="center">
-    <p align="center">✔🌱 I’m currently learning ... Pytorch & Tensorflow</p>
-    <p align="center">✔💬 Ask me anything about Computer Vision</p>
-    <p align="center">✔Always open to explore  and learn</p>
+    <p align="left">✔🌱 I’m currently learning ... Pytorch & Tensorflow</p>
+    <p align="left">✔💬 Ask me anything about Computer Vision</p>
+    <p align="left">✔Always open to explore  and learn</p>
 </p>
 
 
