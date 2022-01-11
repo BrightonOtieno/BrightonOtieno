@@ -63,8 +63,8 @@ I spend most of my time building Web Applications, doing Data Analysis, Data Vis
 ## Lets Connect:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/abungu-b-697755161/ "target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/hoods_majiwa" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a target="_blank" href = "https://www.linkedin.com/in/abungu-b-697755161/><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a target="_blank" href = "https://twitter.com/hoods_majiwa"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 
 
