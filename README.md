@@ -9,12 +9,12 @@
 I'm Brighton Otieno a software developer based in Kenya.Currently I am the Lead skills trainer at <a href="https://www.rcdafrica.org/">RCED Africa </a>.
 
 I spend most of my time building Web Applications, doing Data Analysis, Data Visualizations & Building Machine Learning Models.
+<p align="center">
+    ✔🌱 I’m currently learning ... Pytorch & Tensorflow
+    ✔💬 Ask me anything about Computer Vision
+    ✔Always open to explore  and learn
+</p>
 
-
-
-                        ✔🌱 I’m currently learning ... Pytorch & Tensorflow
-                         ✔💬 Ask me anything about Computer Vision
-                         ✔Always open to explore  and learn
 
 ## Languages and Tools:
 
